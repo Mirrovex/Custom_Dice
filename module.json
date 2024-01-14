@@ -1,0 +1,18 @@
+{
+    "id": "custom_dice",
+    "title": "Custom Dice",
+    "description": "Ready module for adding custom dice to the dice so nice module",
+    "authors": [{"name": "Mirrovex"}],
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "8",
+      "verified": "11"
+    },
+    "esmodules": ["custom_dice.js"],
+    "scripts": [],
+    "styles": ["style.css"],
+
+    "url": "https://github.com/Mirrovex/Custom_Dice",
+    "manifest": "",
+    "download": ""
+}

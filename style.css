@@ -1,0 +1,44 @@
+
+@font-face {
+    font-family: "Gothic";
+    src: url("./fonts/gothic.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Arabic";
+    src: url("./fonts/arabic.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Aztec";
+    src: url("./fonts/aztec.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Horror";
+    src: url("./fonts/horror.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Stone";
+    src: url("./fonts/stone.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Pirate";
+    src: url("./fonts/pirate.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Beast";
+    src: url("./fonts/beast.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
