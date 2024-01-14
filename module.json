@@ -3,7 +3,7 @@
     "title": "Custom Dice",
     "description": "Ready module for adding custom dice to the dice so nice module",
     "authors": [{"name": "Mirrovex"}],
-    "version": "1.0.1",
+    "version": "2.0",
     "compatibility": {
       "minimum": "8",
       "verified": "11"
@@ -13,6 +13,6 @@
     "styles": ["style.css"],
 
     "url": "https://github.com/Mirrovex/Custom_Dice",
-    "manifest": "https://github.com/Mirrovex/Custom_Dice/releases/download/1.0.1/module.json",
-    "download": "https://github.com/Mirrovex/Custom_Dice/releases/download/1.0.1/custom_dice.zip"
+    "manifest": "https://github.com/Mirrovex/Custom_Dice/releases/download/2.0/module.json",
+    "download": "https://github.com/Mirrovex/Custom_Dice/releases/download/2.0/custom_dice.zip"
 }
