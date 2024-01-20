@@ -55,7 +55,7 @@ export default class CustomDice {
         }
 
         try {
-            const fonts1 = ["Pirate", "Beast"]
+            const fonts1 = ["Pirate", "Beast", "Fire"]
             for(let font of fonts1.values()) {
                 const system = font.toLowerCase()
                 dice3d.addSystem({id: system, name: font});
