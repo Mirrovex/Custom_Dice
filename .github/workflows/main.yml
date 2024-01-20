@@ -28,5 +28,5 @@ jobs:
           draft: false
           prerelease: false
           token: ${{secrets.GITHUB_TOKEN}}
-          artifacts: '/custom_dice.zip, ./module.json'
+          artifacts: './custom_dice.zip, ./module.json'
           tag: ${{ steps.get-version.outputs.version }}
