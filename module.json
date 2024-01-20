@@ -3,7 +3,7 @@
     "title": "Custom Dice",
     "description": "Ready module for adding custom dice to the dice so nice module",
     "authors": [{"name": "Mirrovex"}],
-    "version": "1.0.3",
+    "version": "1.0.4",
     "compatibility": {
       "minimum": "8",
       "verified": "11"
