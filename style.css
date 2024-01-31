@@ -29,7 +29,6 @@
     font-weight: normal;
     font-style: normal;
 }
-
 @font-face {
     font-family: "Pirate";
     src: url("./fonts/pirate.woff2") format("woff2");
@@ -54,7 +53,6 @@
     font-weight: normal;
     font-style: normal;
 }
-
 @font-face {
     font-family: "Ancient";
     src: url("./fonts/ancient.woff2") format("woff2");
@@ -80,26 +78,8 @@
     font-style: normal;
 }
 @font-face {
-    font-family: "Flag";
-    src: url("./fonts/flag.woff2") format("woff2");
-    font-weight: normal;
-    font-style: normal;
-}
-@font-face {
-    font-family: "Ghost";
-    src: url("./fonts/ghost.woff2") format("woff2");
-    font-weight: normal;
-    font-style: normal;
-}
-@font-face {
     font-family: "Retro";
     src: url("./fonts/retro.woff2") format("woff2");
-    font-weight: normal;
-    font-style: normal;
-}
-@font-face {
-    font-family: "Royal";
-    src: url("./fonts/royal.woff2") format("woff2");
     font-weight: normal;
     font-style: normal;
 }
