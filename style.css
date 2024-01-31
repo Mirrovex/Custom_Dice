@@ -48,3 +48,70 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: "Moon";
+    src: url("./fonts/moon.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Ancient";
+    src: url("./fonts/ancient.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Book";
+    src: url("./fonts/book.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Curvy";
+    src: url("./fonts/curvy.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Demon";
+    src: url("./fonts/demon.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Flag";
+    src: url("./fonts/flag.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Ghost";
+    src: url("./fonts/ghost.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Retro";
+    src: url("./fonts/retro.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Royal";
+    src: url("./fonts/royal.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Snake";
+    src: url("./fonts/snake.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Tales";
+    src: url("./fonts/tales.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}

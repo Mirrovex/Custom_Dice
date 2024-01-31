@@ -85,7 +85,7 @@ export default class CustomDice {
         }
 
         try {
-            const fonts_with_image = ["Pirate", "Beast", "Fire"] // HERE ADD CUSTOM FONTS NAMES WITH ICONS ON @
+            const fonts_with_image = ["Pirate", "Beast", "Fire", "Moon"] // HERE ADD CUSTOM FONTS NAMES WITH ICONS ON @
             for(let font of fonts_with_image.values()) {
                 const system = font.toLowerCase()
                 dice3d.addSystem({id: system, name: font});
